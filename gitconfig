@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = se_co@gmx.de
+	name = Sebastian Cornet
